@@ -1,0 +1,12 @@
+# Python virtual environments (VS Code may also create .venv-1)
+.venv*/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
